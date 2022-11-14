@@ -1,0 +1,29 @@
+{
+	"name": "log-alert",
+	"version": "1.0.0",
+	"description": "CLI Alerts with colors & colored symbols for success, info, warning, error",
+	"main": "index.js",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/gsambou/log-alert.git"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"log-alert",
+		"gsambou"
+	],
+	"author": {
+		"name": "gsambou",
+		"email": "ghislain.sambou@gmail.com"
+	},
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/gsambou/log-alert/issues"
+	},
+	"homepage": "https://github.com/gsambou/log-alert#readme"
+}
