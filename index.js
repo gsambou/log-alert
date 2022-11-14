@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /**
  * CLI log-alerts
  * CLI Alerts with colors
