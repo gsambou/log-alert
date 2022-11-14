@@ -1,6 +1,9 @@
 
 ![Capture d’écran 2022-11-14 à 09 03 23](https://user-images.githubusercontent.com/48604464/201606943-465e84be-7d24-4ede-a7c9-bf59086613f5.png)
 
+<h4 align="center">
+ CLI Alerts with colors & colored symbols for success, info, warning, error.
+ </h4>
 
 # alert-log
 
