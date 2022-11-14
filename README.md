@@ -97,7 +97,7 @@ Default: `You provided an invalid type`
 #### ❯ name
 
 Type: `string` <br>
-Default: `You provided an invalid type`
+Default: `error`
 
 <br>
 
