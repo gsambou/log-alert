@@ -1,13 +1,16 @@
-
 ![Capture d’écran 2022-11-14 à 09 03 23](https://user-images.githubusercontent.com/48604464/201606943-465e84be-7d24-4ede-a7c9-bf59086613f5.png)
 
-<h4 align="center">
+ <br>
+<h3 align="center">
  CLI Alerts with colors & colored symbols for success, info, warning, error.
- </h4>
+ </h3>
+ <br>
 
 # alert-log
 
 ![image](https://user-images.githubusercontent.com/48604464/201605835-1d078828-8ec5-467f-bb4d-68c04c085c66.png)
+
+<br>
 
 ## Install
 
@@ -19,6 +22,7 @@ npm install alert-log
 
 ![image](https://user-images.githubusercontent.com/48604464/201605954-dab2faed-a4a1-4708-a278-b6b7dfd2610d.png)
 
+<br>
 
 ## Usage
 
@@ -48,10 +52,10 @@ alert(`error`, `Something went wrong`);
 
 ![image](https://user-images.githubusercontent.com/48604464/201607059-314eedc9-684f-4180-a228-440618cf5bc3.png)
 
-
 ## API
 
-### alert(options)
+<br>
+<h3 style='font-weight:bold'>alert(options) </h3>
 
 #### ❯ options
 
@@ -75,7 +79,8 @@ Default: `You provided an invalid type`
 Type: `string` <br>
 Default: `You provided an invalid type`
 
-### alert(type, msg, name)
+<br>
+<h3 style='font-weight:bold; '>alert(type, msg, name) </h3>
 
 You can specify the options below.
 
@@ -94,15 +99,16 @@ Default: `You provided an invalid type`
 Type: `string` <br>
 Default: `You provided an invalid type`
 
+<br>
 
 ![image](https://user-images.githubusercontent.com/48604464/201608140-5360fda9-fc29-47eb-90cd-ef2003ebcb67.png)
 
 ## License & Conduct
 
-- MIT © [gsambou](https://twitter.com/gsambou/)
-- [Code of Conduct](code-of-conduct.md)
+-   MIT © [gsambou](https://twitter.com/gsambou/)
+-   [Code of Conduct](code-of-conduct.md)
 
-
+<br>
 
 ![image](https://user-images.githubusercontent.com/48604464/201608099-375120d8-22c4-4db3-98fd-a6c96c8b2b81.png)
 
