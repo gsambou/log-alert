@@ -53,7 +53,7 @@ const errorChecking = (type, msg, name) => {
 	return { type, msg, name };
 };
 
-const logFactory = (type, msg, name) => {
+const logger = (type, msg, name) => {
 	const data = errorChecking(type, msg, name);
 
 	log(data.type, data.msg, data.name);
@@ -62,9 +62,9 @@ const logFactory = (type, msg, name) => {
 module.exports = (...args) => {
 	if (args.length === 1 && args[0] instanceof Object) {
 		let { type, msg, name } = args[0];
-		logFactory(type, msg, name);
+		logger(type, msg, name);
 	} else {
 		let [type, msg, name] = args;
-		logFactory(type, msg, name);
+		logger(type, msg, name);
 	}
 };
