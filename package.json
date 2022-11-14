@@ -1,6 +1,6 @@
 {
 	"name": "log-alert",
-	"version": "1.0.0",
+	"version": "0.0.1",
 	"description": "CLI Alerts with colors & colored symbols for success, info, warning, error",
 	"main": "index.js",
 	"scripts": {
