@@ -14,6 +14,10 @@
 		"index.js"
 	],
 	"keywords": [
+		"cli-alert",
+		"cli-alerts",
+		"color",
+		"cli",
 		"log-alert",
 		"gsambou"
 	],
@@ -21,7 +25,7 @@
 		"name": "gsambou",
 		"email": "ghislain.sambou@gmail.com"
 	},
-	"license": "ISC",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/gsambou/log-alert/issues"
 	},

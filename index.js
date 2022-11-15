@@ -4,7 +4,7 @@
  * CLI Alerts with colors
  * Alerts: `success`, `info`, `warning`, `error`
  *
- * @author gsambou <https://twitter.com/gsamboudev/>
+ * @author gsambou <https://twitter.com/gsdotdev/>
  */
 
 const RESET = '\u001b[0m';
