@@ -105,7 +105,7 @@ Default: `error`
 
 ## License & Conduct
 
--   MIT © [gsambou](https://twitter.com/gsambou/)
+-   MIT © [gsambou](https://twitter.com/gsotdev/)
 -   [Code of Conduct](code-of-conduct.md)
 
 <br>
@@ -115,5 +115,5 @@ Default: `error`
 ## Connect
 
 <div align="left">
- <p><a href="https://twitter.com/gsamboudev/"><img alt="Twitter @gsambou.dev" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&style=flat" /></a>&nbsp;<small>follow for more Open-Source projects</small></p>
+ <p><a href="https://twitter.com/gsdotdev/"><img alt="Twitter @gsdotdev" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&style=flat" /></a>&nbsp;<small>follow for more Open-Source projects</small></p>
 </div>
