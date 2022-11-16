@@ -17,9 +17,16 @@
 		"cli-alert",
 		"cli-alerts",
 		"color",
-        "terminal"
+		"colors",
+		"colour",
+		"terminal",
+		"colored terminal",
 		"cli",
+		"msg",
+		"colored",
 		"log-alert",
+		"console",
+		"style",
 		"gsambou"
 	],
 	"author": {
