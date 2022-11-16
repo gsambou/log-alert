@@ -17,6 +17,7 @@
 		"cli-alert",
 		"cli-alerts",
 		"color",
+        "terminal"
 		"cli",
 		"log-alert",
 		"gsambou"

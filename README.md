@@ -25,25 +25,37 @@ npm install alert-log
 <br>
 
 ## Usage
-
+```js
+import alert from 'alert-log';
+```
+OR
 ```js
 const alert = require('alert-log');
+```
+
+```js
 
 // Provide the type, msg and name options
 
 alert({ type: `success`, msg: `All done!` });
+// Prints: ✔   SUCCESS   All done!
+
 alert(`success`, `All done!`);
 // Prints: ✔   SUCCESS   All done!
 
 alert({ type: `warning`, msg: `You didn't add something` });
+// Prints:  ⚠   WARNING   You didn't add something
+
 alert(`warning`, `You didn't add something`);
 // Prints:  ⚠   WARNING   You didn't add something
 
 alert({ type: `info`, msg: `Awesome cli app` });
+// Prints:  ℹ   INFO   Awesome cli app
 alert(`info`, `Awesome cli app`);
 // Prints:  ℹ   INFO   Awesome cli app
 
 alert({ type: `error`, msg: `Something went wrong` });
+// Prints: ⨯   ERROR   Something went wrong
 alert(`error`, `Something went wrong`);
 // Prints: ⨯   ERROR   Something went wrong
 ```
@@ -55,8 +67,10 @@ alert(`error`, `Something went wrong`);
 ## API
 
 <br>
-<h3 style='font-weight:bold'>alert(options) </h3>
 
+```js
+alert(options)
+```
 #### ❯ options
 
 Type: `object`<br>
@@ -80,7 +94,10 @@ Type: `string` <br>
 Default: `You provided an invalid type`
 
 <br>
-<h3 style='font-weight:bold; '>alert(type, msg, name) </h3>
+
+```js
+alert(type, msg, name);
+```
 
 You can specify the options below.
 
@@ -115,5 +132,5 @@ Default: `error`
 ## Connect
 
 <div align="left">
- <p><a href="https://twitter.com/gsdotdev/"><img alt="Twitter @gsdotdev" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&style=flat" /></a>&nbsp;<small>follow for more Open-Source projects</small></p>
+ <p><a href="https://twitter.com/gsdotdev/"><img alt="Twitter @gsdotdev" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&style=flat" /></a>&nbsp;<small> follow me for more Open-Source Projects</small></p>
 </div>
